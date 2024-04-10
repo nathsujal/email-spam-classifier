@@ -53,8 +53,8 @@ Render (for website hosting)
   pip install -r requirements.txt
   ```
 3. To run the app locally
-   ```
-   streamlit run app.py
-   ```
+  ```
+  streamlit run app.py
+  ```
 
 #### Feel free to explore the code and experiment further!
