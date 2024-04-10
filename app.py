@@ -4,6 +4,7 @@ import nltk
 from nltk.corpus import stopwords
 import string
 from nltk.stem.porter import PorterStemmer
+import sklearn
 
 ps = PorterStemmer()
 
