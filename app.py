@@ -6,6 +6,9 @@ import string
 from nltk.stem.porter import PorterStemmer
 import sklearn
 
+nltk.download('wordnet')
+nltk.download('punkt')
+
 ps = PorterStemmer()
 
 def transform_message(message):
